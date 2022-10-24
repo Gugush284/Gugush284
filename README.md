@@ -17,4 +17,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Gugush284)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/bed2501)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugush284)](https://github.com/anuraghazra/github-readme-stats)
+[![Gugush284's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gugush284&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
