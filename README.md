@@ -2,7 +2,7 @@
 ### I’m a 3rd year student of MIPT. I'm interested in a backend developing and ML
 
 ## I’m currently working on:
-[![REST-API-LEARNING](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=go)](https://github.com/Gugush284/REST-API-LEARNING)
+[![REST-API-LEARNING](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=go)](https://github.com/Gugush284/Go-REST-API-Learning.git)
 [![tg-bot](https://img.shields.io/badge/-tg_bot-090909?style=for-the-badge&logo=go)](https://github.com/Gugush284/tg-bot)
 ## Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
