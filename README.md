@@ -1,8 +1,9 @@
 ## I’m currently working on:
-[![REST-API-LEARNING](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=go)](https://github.com/Gugush284/Go-REST-API-Learning.git)
+[![Java-Learning](https://img.shields.io/badge/-Java_Learning-090909?style=for-the-badge&logo=java)](https://github.com/Gugush284/Java-Learning.git)
+[![ISDM](https://img.shields.io/badge/-ISDM-090909?style=for-the-badge&logo=Python)](https://github.com/Gugush284/ISDM.git)
 ## Languages and tools:
-![golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
 
 ### Familiar with the OpenSSL, REST API model, synchronization primitives (semaphores, message queues, mutex), POSIX signals, pipes
 
