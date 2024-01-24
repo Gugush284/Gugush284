@@ -1,5 +1,5 @@
 ## I’m currently working on:
-[![Java-Learning](https://img.shields.io/badge/-Java_Learning-090909?style=for-the-badge&logo=java)](https://github.com/Gugush284/Java-Learning.git)
+[![Java-Learning](https://img.shields.io/badge/-Java_Learning-090909?style=for-the-badge&logo=java&label=java&labelColor=000000&color=000000)](https://github.com/Gugush284/Java-Learning.git)
 [![ISDM](https://img.shields.io/badge/-ISDM-090909?style=for-the-badge&logo=Python)](https://github.com/Gugush284/ISDM.git)
 ## Languages and tools:
 [![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C)](https://en.wikipedia.org/wiki/C_(programming_language))
