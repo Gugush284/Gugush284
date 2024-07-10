@@ -1,7 +1,5 @@
 ### I’m currently working on:
 [![Java-Learning](https://img.shields.io/badge/Java_Learning-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Gugush284/Java-Learning.git)
-[![ISDM](https://img.shields.io/badge/-ISDM-090909?style=for-the-badge&logo=Python)](https://github.com/Gugush284/ISDM.git)
-[![Smart-Cart](https://img.shields.io/badge/Smart_Cart-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Gugush284/Smart-Cart.git)
 ### Languages:
 [![C](https://img.shields.io/badge/c-grey?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/c++-crimson?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://ru.wikipedia.org/wiki/C%2B%2B)
