@@ -16,9 +16,10 @@
 [![Qt](https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=Qt&logoColor=white&color=018dbb)](https://github.com/Gugush284/ISDM)
 [![Celery](https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=celery&logoColor=white&color=018dbb)](https://docs.celeryq.dev/en/stable/getting-started/introduction.html)
 [![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=white&color=018dbb)](https://github.com/redis/redis-py)
-[![Asyncio](https://img.shields.io/badge/Asyncio-black?style=for-the-badge&color=018dbb)](https://github.com/redis/redis-py)
+[![Asyncio](https://img.shields.io/badge/Asyncio-black?style=for-the-badge&color=018dbb)](https://docs.python.org/3/library/asyncio.html)
 [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&color=018dbb&logo=Django)](https://www.djangoproject.com/)
 [![Fastapi](https://img.shields.io/badge/Fastapi-black?style=for-the-badge&color=018dbb&logo=Fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![SQLModel](https://img.shields.io/badge/SQLModel-black?style=for-the-badge&color=018dbb)](https://github.com/redis/redis-py)
 
 <p align="center">
   <a href="https://github.com/Gugush284">
