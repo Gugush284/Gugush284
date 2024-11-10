@@ -19,7 +19,7 @@
 [![Asyncio](https://img.shields.io/badge/Asyncio-black?style=for-the-badge&color=3572A5)](https://docs.python.org/3/library/asyncio.html)
 [![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&color=3572A5&logo=Django)](https://www.djangoproject.com/)
 [![Fastapi](https://img.shields.io/badge/Fastapi-black?style=for-the-badge&color=3572A5&logo=Fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![SQLModel](https://img.shields.io/badge/SQLModel-black?style=for-the-badge&color=3572A5)](https://github.com/redis/redis-py)
+[![Poetry](https://img.shields.io/badge/Poetry-black?style=for-the-badge&color=3572A5)]([https://github.com/redis/redis-py](https://python-poetry.org/))
 
 <p align="center">
   <a href="https://github.com/Gugush284">
