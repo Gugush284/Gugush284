@@ -8,7 +8,6 @@
 [![pthread](https://img.shields.io/badge/pthread-555555?style=for-the-badge)](https://github.com/Gugush284/Parallel)
 [![semaphores](https://img.shields.io/badge/semaphores-555555?style=for-the-badge)](https://github.com/Gugush284/Computer-technology)
 [![POSIX signals](https://img.shields.io/badge/POSIX_signals-555555?style=for-the-badge)](https://github.com/Gugush284/Computer-technology)
-[![OpenSSL](https://img.shields.io/badge/provider-555555?style=for-the-badge&logo=OpenSSL&logoSize=auto)](https://docs.openssl.org/master/man7/provider/)
 
 [![OpenMP](https://img.shields.io/badge/OpenMP-f34b7d?style=for-the-badge)](https://github.com/Gugush284/Parallel)
 [![OpenSSL](https://img.shields.io/badge/provider-f34b7d?style=for-the-badge&logo=OpenSSL&logoSize=auto)](https://docs.openssl.org/master/man7/provider/)
